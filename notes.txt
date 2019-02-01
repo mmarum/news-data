@@ -1,0 +1,8 @@
+
+news data
+- See if I can find the most common words (and phrases?) used in a given day, week, month (option: grouped by region?)
+
+https://newsapi.org/
+
+https://webhose.io/
+
